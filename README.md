@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**florentmorin/florentmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on SwiftUI + Combine! 
 
-Here are some ideas to get you started:
+My work is focused on privacy 🔒, accessibility ♿️ and environment 🌱.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My favorite skills:
+
+* Swift
+* iOS / macOS / tvOS / watchOS
+* SwiftUI + Combine
+* UIKit (+ Combine)
+* CryptoKit
+* Core Data
+* Core ML
+
+🤔 Want to know more? Visit my [LinkedIn profile](https://www.linkedin.com/in/florentmorin/).
