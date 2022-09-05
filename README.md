@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on SwiftUI + Combine! 
+🔭 I’m currently working on Swift + SwiftUI + Swift Concurrency! 
 
 My work is focused on privacy 🔒, accessibility ♿️ and environment 🌱.
 
@@ -8,8 +8,10 @@ My favorite skills:
 
 * Swift
 * iOS / macOS / tvOS / watchOS
-* SwiftUI + Combine
-* UIKit (+ Combine)
+* SwiftUI
+* UIKit
+* Swift Concurrency
+* Xcode
 * CryptoKit
 * Core Data
 * Core ML
