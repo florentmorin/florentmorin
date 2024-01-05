@@ -20,6 +20,10 @@ My favorite skills:
 
 🤔 Want to know more? Visit my [LinkedIn profile](https://www.linkedin.com/in/florentmorin/).
 
+### Morin Innovation
+
+Since 15 years as a freelance, I develop visionOS / iOS / macOS / tvOS / watchOS apps for [my clients](https://morin-innovation.com).
+
 ### Steve&Steve
 
-I am developer co-funder of [Steve&Steve](https://steveandsteve.io), Vision Pro Studio. You can show our open-source contributions [here](https://github.com/Steve-and-Steve).
+I am developer co-funder of [Steve&Steve](https://steveandsteve.io), a Vision Pro Studio Design+Code.
