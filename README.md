@@ -8,7 +8,7 @@ My favorite skills:
 
 * Swift
 * visionOS / iOS / macOS / tvOS / watchOS
-* Spatial computin
+* Spatial computing
 * SwiftUI
 * UIKit
 * Swift Concurrency
