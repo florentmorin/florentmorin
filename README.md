@@ -24,6 +24,3 @@ My favorite skills:
 
 Since 15 years as a freelance, I develop visionOS / iOS / macOS / tvOS / watchOS apps for [my clients](https://morin-innovation.com).
 
-### Steve&Steve
-
-I am developer co-funder of [Steve&Steve](https://steveandsteve.io), a Vision Pro Studio Design+Code.
